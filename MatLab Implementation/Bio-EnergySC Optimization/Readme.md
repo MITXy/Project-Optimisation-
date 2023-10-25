@@ -3,10 +3,11 @@
 ## Authors
 - R.A Amokun
 - Engr. K. Ogunrewo
-![Energy Optimization Model](opt.jpg)
+
 
 ## Overview
 This code implements an energy optimization model that aims to minimize environmental impact while maximizing social benefits. It considers various factors including costs of farmland, production, and consumer demands at different locations.
+![Energy Optimization Model](opt.jpg)
 
 The code is divided into four main parts, each focusing on a different objective function:
 
